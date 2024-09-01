@@ -166,46 +166,58 @@ ul.navbar li a:hover:not(.active){
     display: flex;
 }
 .section-1-img .img{
-    width: 100px;
-    height: 130px;
-    background: url(../images/jumanji.jpg);
+    width: 167px;
+    height: 140px;
+    background: url(../images/play5.jpg);
     background-size: cover;
     background-position: center;
-    margin-right: 10px;
+    margin-right: -50px;
     border-radius: 10px;
 }
 .section-1-img .img-2{
-    background: url(../images/nba.jpg);
+    background: url(../images/xbox.jpg);
     background-size: cover;
     background-position: center;
 }
 .section-1-img  .img-3{
-    background: url(../images/battlefield.jpg);
+    background: url(../images/nintendo.jpg);
     background-size: cover;
     background-position: center;
 }
 .section-1-img  .img-4{
-    background: url(../images/warxone.jpg);
+    background: url(../images/steam.jpg);
     background-size: cover;
     background-position: center;
 }
 .section-1-img  .img-5{
-    background: url(../images/craft.jpeg);
+    background: url(../images/gamecube.jpg);
     background-size: cover;
     background-position: center;
 }
 .section-1-img  .img-6{
-    background: url(../images/fortnite.jpg);
+    background: url(../images/3ds.jpg);
     background-size: cover;
     background-position: center;
 }
+.section-1-img  .img-7{
+    background: url(../images/play4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.section-1-img  .img-8{
+    background: url(../images/gafas.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
 .img:hover{
     transform: translateY(-10px);
 }
 
 /* Section 3 starts here */
 .game-categories{
-    width: 70%;
+    width: 90%;
     margin: 50px auto;
     position: relative;
 }
@@ -223,7 +235,7 @@ ul.navbar li a:hover:not(.active){
     background: url(../images/asphalt8.jpg);
     background-size: cover;
     background-position: center;
-    margin: 20px 15px 0 0;
+    margin: 30px 65px 0 0;
     border-radius: 10px;
 }
 .gw:hover{
@@ -231,16 +243,16 @@ ul.navbar li a:hover:not(.active){
 }
 .left{
     position: relative;
-    right: -140px;
+    right: -185px;
 }
 
 .gw-1{
-    background: url(../images/pes22.webp);
+    background: url(../images/god.jpg   );
     background-size: cover;
     background-position: center;
 }
 .gw-2{
-    background: url(../images/carrace.jpg);
+    background: url(../images/tekken.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -270,12 +282,12 @@ ul.navbar li a:hover:not(.active){
     background-position: center;
 }
 .gw-8{
-    background: url(../images/battlefield.jpg);
+    background: url(../images/callofduty.jpg);
     background-size: cover;
     background-position: center;
 }
 .gw-9{
-    background: url(../images/craft.jpeg);
+    background: url(../images/wukong.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -302,13 +314,14 @@ ul.navbar li a:hover:not(.active){
     text-align: center;
 }
 .p-image{
-    width: 200px;
+    width: 137px;
     height: 200px;
-    background: url(../images/vaklish.png);
+    background: url(../images/dante.png);
     background-size: cover;
     background-position: center;
     border-radius: 50%;
     position: relative;
+
 }
 .p-image-1::after{
     content: 'VS';
@@ -328,13 +341,13 @@ ul.navbar li a:hover:not(.active){
     color: #FEC53A;
 }
 .p-image-2{
-    background: url(../images/rakuto.png);
+    background: url(../images/fortnite.png);
     background-size: cover;
     background-position: center;
 }
 
 .p-image-2{
-    background: url(../images/rakuto.png);
+    background: url(../images/vergil.png);
     background-size: cover;
     background-position: center;
 }
@@ -347,7 +360,7 @@ ul.navbar li a:hover:not(.active){
     color: #FEC53A;
 }
 .p-image-4{
-    background: url(../images/rakuto.png);
+    background: url(../images/vergil.png);
     background-size: cover;
     background-position: center;
 }
